@@ -1,7 +1,1 @@
-# Display custom links under "Sponsor this project" on the sidebar
-custom: [
-  'https://intoconvert.com',
-  'https://intoconvert.com/png-to-pdf',
-  'https://intoconvert.com/jpg-to-bmp',
-  'https://intoconvert.com/docx-to-pdf',
-]
+custom:   ['https://intoconvert.com', 'https//intoconvert.com/png-to-pdf','https://intoconvert.com/jpg-to-bmp','https://intoconvert.com/docx-to-pdf', ]
